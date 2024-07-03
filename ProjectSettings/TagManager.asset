@@ -4,11 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - EnemySpawnArea
-  - CoverArea
-  - CoverAreasParent
-  - Spawn1
-  - New tag
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -16,14 +12,14 @@ TagManager:
   - 
   - Water
   - UI
+  - 
+  - 
+  - Cover
+  - Ignore Shot
+  - Cover Invisible
   - Player
   - Enemy
-  - Camera
-  - Floor
-  - Collision
-  - LineOfSight
-  - Ground
-  - 
+  - Bound
   - 
   - 
   - 
